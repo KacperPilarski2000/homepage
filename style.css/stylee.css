@@ -7,7 +7,7 @@
   box-sizing: inherit;
 }
 .body {
-  background: hsl(216, 33%, 97%);
+  background: hsl(210, 8%, 95%);
   font-family: "Lato", sans-serif;
   width: 1200px;
 height: 1319px;
@@ -67,6 +67,7 @@ flex-shrink: 0;
 
 .main {
   padding: 102px 88px 102px 88px;
+  
 }
 
 .main_description {
