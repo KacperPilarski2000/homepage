@@ -127,7 +127,7 @@ flex-shrink: 0;
 }
 
 .jobName {
-  color: #000;
+  color: hsl(0, 0%, 0%);
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -135,7 +135,7 @@ flex-shrink: 0;
 }
 
 .jobName__status {
-  color: #fb6d3a;
+  color: hsl(16, 96%, 61%);
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -143,7 +143,7 @@ flex-shrink: 0;
 }
 
 .jobDate {
-  color: #a8a8a8;
+  color: hsl(0, 0%, 66%);
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
@@ -159,7 +159,7 @@ flex-shrink: 0;
   list-style-position: inside;
 }
 .element{
-color: #000;
+color: hsl(0, 0%, 0%);
 font-size: 12px;
 font-style: normal;
 font-weight: 400;
@@ -167,9 +167,13 @@ line-height: normal;
 }
 
 .uniwersity {
-color: #000;
+color: hsl(0, 0%, 0%);
 font-size: 14px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+}
+.button { 
+  padding: 1px solid hsl(0, 0%, 0%);
+  background: hsl(16, 96%, 61%);
 }
