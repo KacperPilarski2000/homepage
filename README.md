@@ -1,7 +1,8 @@
 # Homepage
 
 ## site [demo](https://kacperpilarski2000.github.io/homepage/Homepage.html).
-## extra function 
+## extra function:
+Day night background
 ![ezgif com-video-to-gif](https://github.com/KacperPilarski2000/homepage/assets/149115548/62078fe0-6a6a-4529-b007-7f88df52eca5)
 
 ## Language used in this side:
