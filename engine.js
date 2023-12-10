@@ -1,6 +1,7 @@
 const DayNightEffect = () => {
   const BodyElement = document.querySelector(".js-body");
 
+  BodyElement.classList.toggle("body");
   BodyElement.classList.toggle("NightBody");
 };
 

@@ -1,6 +1,8 @@
 .NightBody {
-  background: rgb(233, 189, 189);
+  background: rgb(218, 120, 120);
+  font-family: "Lato", sans-serif;
+    width: 1200px;
+    height: 1319px;
+    flex-shrink: 0;
 }
-.NightJobDate {
-background: azure;
-}
+
