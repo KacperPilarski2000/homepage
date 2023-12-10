@@ -1,0 +1,29 @@
+.listItem {
+  color: #000;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  padding-left: 0px;
+  list-style-position: inside;
+}
+
+.listPrimarItem {
+  color: #595959;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration-line: underline;
+  text-decoration: none;
+}
+.unodrederList {
+  margin-left: -10px;
+}
+.unodrederList__span {
+  color: #fff;
+}
+.unodrederList_listItem {
+    color: hsl(34, 85%, 18%);
+    margin-left: 0px;
+  }
