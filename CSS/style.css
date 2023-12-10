@@ -177,4 +177,11 @@ line-height: normal;
   border: 1px solid hsl(0, 0%, 0%);
   background: hsl(16, 96%, 61%);
   border-radius: 10px;
+  cursor: pointer;
+}
+.button:hover {
+  border: 1px solid hsl(0, 0%, 0%);
+  background: hsl(16, 79%, 41%);
+  border-radius: 10px;
+  cursor: pointer;
 }
